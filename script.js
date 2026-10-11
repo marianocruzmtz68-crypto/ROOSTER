@@ -28,7 +28,7 @@
     guiones
 */
 
-const WHATSAPP_NUMBER = "5215652310824";
+const WHATSAPP_NUMBER = "5215532721066";
 
 
 /*
